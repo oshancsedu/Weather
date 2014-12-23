@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name ="unit">
+        <item >Fahrenheit</item>
+        <item >Kelvin</item>
+        <item >Celsius</item>
+    </string-array>
+    
+   	 <string-array name ="Vunit">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+    </string-array>
+    
+   	 <string-array name ="format">
+        <item >24 Hour</item>
+        <item >12 Hour</item>
+    </string-array>
+   	 
+    <string-array name ="T_format">
+        <item >1</item>
+        <item >2</item>
+    </string-array>
+   	 
+</resources>
